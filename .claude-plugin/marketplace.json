@@ -1,0 +1,17 @@
+{
+  "name": "cs-genesis",
+  "owner": { "name": "Chetan S" },
+  "description": "Project design and setup protocols",
+  "plugins": [
+    {
+      "name": "genesis-the-protocol",
+      "source": { "source": "github", "repo": "ChetanS07/genesis-the-protocol" },
+      "description": "Take a new project idea from interview to architecture files."
+    },
+    {
+      "name": "genesis-the-architect",
+      "source": { "source": "github", "repo": "ChetanS07/genesis-the-architect" },
+      "description": "Install branching, folder-structure and coding standards into a repo and register them in CLAUDE.md."
+    }
+  ]
+}
