@@ -5,12 +5,12 @@
   "plugins": [
     {
       "name": "genesis-the-protocol",
-      "source": { "source": "github", "repo": "ChetanS07/genesis-the-protocol" },
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis-the-protocol.git" },
       "description": "Take a new project idea from interview to architecture files."
     },
     {
       "name": "genesis-the-architect",
-      "source": { "source": "github", "repo": "ChetanS07/genesis-the-architect" },
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis-the-architect.git" },
       "description": "Install branching, folder-structure and coding standards into a repo and register them in CLAUDE.md."
     }
   ]
