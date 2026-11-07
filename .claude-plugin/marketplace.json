@@ -12,6 +12,12 @@
       "name": "genesis-the-architect",
       "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis-the-architect.git" },
       "description": "Install branching, folder-structure and coding standards into a repo and register them in CLAUDE.md."
+    },
+    {
+      "name": "mattpocock-skills",
+      "source": { "source": "url", "url": "https://github.com/mattpocock/skills.git" },
+      "description": "Matt Pocock's skills, tracked from upstream",
+      "ref": "main"
     }
   ]
 }
