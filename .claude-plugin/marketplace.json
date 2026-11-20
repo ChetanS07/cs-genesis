@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "genesis-the-protocol",
-      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis-the-protocol.git" },
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis.git" },
       "description": "Take a new project idea from interview to architecture files."
     },
     {
