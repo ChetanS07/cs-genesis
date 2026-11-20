@@ -4,7 +4,7 @@
   "description": "Project design and setup protocols",
   "plugins": [
     {
-      "name": "genesis-the-protocol",
+      "name": "genesis",
       "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis.git" },
       "description": "Take a new project idea from interview to architecture files."
     },
