@@ -9,8 +9,8 @@
       "description": "Take a new project idea from interview to architecture files."
     },
     {
-      "name": "genesis-the-architect",
-      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis-the-architect.git" },
+      "name": "architect",
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/architect.git" },
       "description": "Install branching, folder-structure and coding standards into a repo and register them in CLAUDE.md."
     },
     {
