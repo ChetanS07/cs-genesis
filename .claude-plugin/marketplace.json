@@ -5,17 +5,17 @@
   "plugins": [
     {
       "name": "genesis",
-      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis.git" },
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/genesis.git",  "ref": "main" },
       "description": "Take a new project idea from interview to architecture files."
     },
     {
       "name": "architect",
-      "source": { "source": "url", "url": "https://github.com/ChetanS07/architect.git" },
+      "source": { "source": "url", "url": "https://github.com/ChetanS07/architect.git", "ref": "main" },
       "description": "Install branching, folder-structure and coding standards into a repo and register them in CLAUDE.md."
     },
     {
       "name": "mattpocock-skills",
-      "source": { "source": "url", "url": "https://github.com/mattpocock/skills.git" },
+      "source": { "source": "url", "url": "https://github.com/mattpocock/skills.git",  "ref": "main" },
       "description": "Matt Pocock's skills, tracked from upstream",
       "ref": "main"
     }
