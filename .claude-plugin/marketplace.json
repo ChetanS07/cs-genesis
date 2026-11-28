@@ -26,7 +26,7 @@
     },
     {
       "name": "modern-web-guidance",
-      "source": { "source": "url", "repo": "https://github.com/GoogleChrome/modern-web-guidance.git", "ref": "main" },
+      "source": { "source": "url", "url": "https://github.com/GoogleChrome/modern-web-guidance.git", "ref": "main" },
       "description": "Chrome's modern web best-practice skills for frontend work"
     }
   ]
